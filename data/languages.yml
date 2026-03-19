@@ -14880,6 +14880,14 @@
   :common: false
   :type: :living
   :scope: :individual
+- :name: Ezidi
+  :iso_639_1:
+  :iso_639_3: ezi
+  :iso_639_2b:
+  :iso_639_2t:
+  :common: false
+  :type: :living
+  :scope: :individual
 - :name: Fasu
   :iso_639_1:
   :iso_639_3: faa
